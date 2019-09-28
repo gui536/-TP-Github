@@ -1,0 +1,13 @@
+body{
+	background-color: #DEDEDE;
+}
+
+
+/*Comenário*/
+h1, h2{
+	text-align: center;
+}
+
+p, h1, h2{
+	font-family: Verdana;	
+}
